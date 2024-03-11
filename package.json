@@ -1,5 +1,5 @@
 {
-  "name": "HUNGVU9-tea-xyz-quest",
+  "name": "Tinh-tong-2-so",
   "version": "1.0.3",
   "description": "HUNGVU90",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HUNGVU90/tea-xyz-quest.git"
+    "url": "git+https://github.com/HUNGVU90/Tinh-tong-2-so.git"
   },
   "keywords": [
     "cacl"
@@ -16,7 +16,7 @@
   "author": "HUNGVU90",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HUNGVU90/tea-xyz-quest/issues"
+    "url": "https://github.com/HUNGVU90/Tinh-tong-2-so/issues"
   },
-  "homepage": "https://github.com/HUNGVU90/tea-xyz-quest#readme"
+  "homepage": "https://github.com/HUNGVU90/Tinh-tong-2-so#readme"
 }
