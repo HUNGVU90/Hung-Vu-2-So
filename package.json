@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HUNGVU90/Tinh-tong-2-so.git"
+    "url": "https://github.com/HUNGVU90/Hung-Vu-2-So.git"
   },
   "keywords": [
     "cacl"
@@ -16,7 +16,7 @@
   "author": "HUNGVU90",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HUNGVU90/Tinh-tong-2-so/issues"
+    "url": "https://github.com/HUNGVU90/Hung-Vu-2-So/issues"
   },
-  "homepage": "https://github.com/HUNGVU90/Tinh-tong-2-so#readme"
+  "homepage": "https://github.com/HUNGVU90/Hung-Vu-2-So-so#readme"
 }
