@@ -1,5 +1,5 @@
 {
-  "name": "Hung-Vu-2-So",
+  "name": "kieuhanhoccode2024",
   "version": "1.0.3",
   "description": "HUNGVU90",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HUNGVU90/Hung-Vu-2-So.git"
+    "url": "https://github.com/HUNGVU90/kieuhanhoccode2024.git"
   },
   "keywords": [
     "cacl"
@@ -16,7 +16,7 @@
   "author": "HUNGVU90",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HUNGVU90/Hung-Vu-2-So/issues"
+    "url": "https://github.com/HUNGVU90/kieuhanhoccode2024.git/issues"
   },
-  "homepage": "https://github.com/HUNGVU90/Hung-Vu-2-So-so#readme"
+  "homepage": "https://github.com/HUNGVU90/kieuhanhoccode2024#readme"
 }
