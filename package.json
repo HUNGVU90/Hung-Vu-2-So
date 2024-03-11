@@ -1,22 +1,27 @@
 {
-  "name": "kieuhanhoccode2024",
+  "name": "nhan-2-so-kieunhannnnm",
   "version": "1.0.3",
-  "description": "HUNGVU90",
+  "description": "Kieuhannn",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HUNGVU90/kieuhanhoccode2024.git"
+    "url": "git+https://github.com/HUNGVU90/nhan-2-so-kieunhannnnm.git"
   },
   "keywords": [
     "cacl"
   ],
-  "author": "HUNGVU90",
+  "author": "Kieuhannn",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HUNGVU90/kieuhanhoccode2024.git/issues"
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-tinhs2cop": "1.0.2"
   },
-  "homepage": "https://github.com/HUNGVU90/kieuhanhoccode2024#readme"
+  "bugs": {
+    "url": "https://github.com/HUNGVU90/nhan-2-so-kieunhannnnm/issues"
+  },
+  "homepage": "https://github.com/HUNGVU90/nhan-2-so-kieunhannnnm#readme"
 }
