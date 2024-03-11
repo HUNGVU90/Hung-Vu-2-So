@@ -1,9 +1,9 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
+  "name": "@HUNGVU90_npm/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
+  "author": "@vuvanhungxd9",
+  "repository": "https://github.com/HUNGVU90/tea-xyz-quest",
   "license": "ISC"
 }
