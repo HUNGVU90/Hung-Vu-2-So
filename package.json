@@ -1,9 +1,22 @@
 {
   "name": "HUNGVU9-tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "version": "1.0.3",
+  "description": "HUNGVU90",
   "main": "index.js",
-  "author": "@vuvanhungxd9",
-  "repository": "https://github.com/HUNGVU90/tea-xyz-quest",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUNGVU90/tea-xyz-quest.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "HUNGVU90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUNGVU90/tea-xyz-quest/issues"
+  },
+  "homepage": "https://github.com/HUNGVU90/tea-xyz-quest#readme"
 }
